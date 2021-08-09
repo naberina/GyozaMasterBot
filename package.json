@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@kintone/rest-api-client": "^2.0.13",
     "@slack/bolt": "^3.5.0"
   },
   "devDependencies": {
